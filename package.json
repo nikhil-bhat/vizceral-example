@@ -35,6 +35,7 @@
     "socket.io-client": "^1.5.1",
     "source-sans-pro": "^2.0.10",
     "superagent": "^3.0.0",
+    "vizceral": "git+https://github.com/nikhil-bhat/vizceral.git#New_Shape_Added",
     "vizceral-react": "^4.8.0",
     "webfontloader": "^1.6.26"
   },
